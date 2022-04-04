@@ -1,0 +1,6 @@
+framework module Pods_RandomcoJHurtado_RandomcoJHurtadoUITests {
+  umbrella header "Pods-RandomcoJHurtado-RandomcoJHurtadoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
